@@ -1,5 +1,5 @@
 name = ARGV.first || "World"
-#default is world
+#default is World
 
 puts "Hello, #{ARGV.first}!"
 
